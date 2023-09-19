@@ -9,4 +9,3 @@ Groups of 5 are not predetermined; on the contrary, they must be formed on the s
 
 Simulate for a length of time, say a couple of minutes. In the end, display the identifier of the individual who drunk the most, and of that who drunk the least.
 
-Provide working code as one or more .c/.h files(meaning, code that compiles) and pdf file commenting your solution (including statistics). 
